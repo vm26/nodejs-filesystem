@@ -1,0 +1,27 @@
+{
+  "name": "fstask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "date.js",
+  "scripts": {
+<<<<<<< HEAD
+    "test": "date.js"
+=======
+     "start": "node date.js"
+>>>>>>> 86d0fa7c324cc2b3d4da4b2b05ec94df1c518134
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vm26/nodejs-filesystem.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vm26/nodejs-filesystem/issues"
+  },
+  "homepage": "https://github.com/vm26/nodejs-filesystem#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
