@@ -1,11 +1,8 @@
 const http = require('http');
 const fs = require('fs');
 
-<<<<<<< HEAD
+
 const port = process.env.PORT || 8000;
-=======
-const port =  process.env.PORT || 8000;
->>>>>>> 86d0fa7c324cc2b3d4da4b2b05ec94df1c518134
 const date = new Date;
 //for txt file name in date-time format
 let filename = date.getDate().toString() + (date.getMonth() + 1) + date.getFullYear() + date.getTime();
